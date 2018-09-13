@@ -1,4 +1,4 @@
-# intro-to-git
+# Introduction to Git
 
 Notes taken during introduction to Git tutorial.
 
